@@ -1,0 +1,2 @@
+# menor-distancia-com-grafos
+Uma empresa de segurança chamada Forte Seguro solicitou a implementação de um programa  capaz de exibir o melhor caminho para uma rota de coleta e entrega saindo do estacionamento da empresa. O objetivo do software é calcular o menor caminho entre pontos específicos indicados em um grafo que representa um mapa da região de atuação   da   empresa   com   os   vários   caminhos   possíveis.   O   projeto   consiste   em automatizar a escolha da trajetória.
